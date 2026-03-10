@@ -2,7 +2,7 @@ class SwordTui < Formula
   desc "Terminal-based Bible application built with Go"
   homepage "https://github.com/kmf/sword-tui"
   url "https://github.com/kmf/sword-tui/archive/refs/tags/v1.11.0.tar.gz"
-  sha256 "" # This will need to be updated with the actual SHA256 of the release tarball
+  sha256 "4fb8c1ea6c345d97238f1e1ac1dabad6fbb77054e88eebc46f654b142c48767c"
   license "GPL-2.0-or-later"
   head "https://github.com/kmf/sword-tui.git", branch: "main"
 
